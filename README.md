@@ -30,22 +30,18 @@
 
 ```sh
 cd /Minikube-install
-chmod +x preparacao.sh
-./preparacao.sh
+
+sudo chmod +x preparacao.sh
+
 
 ```
 
 ## Usage
 
 ```sh
-chmod +x preparacao.sh execute ./preparacao.sh 
+sudo ./preparacao.sh 
 ```
 
-## Run tests
-
-```sh
-npm run test
-```
 
 ## Author
 
@@ -67,7 +63,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Eduardo Bufaino](https://github.com/ebufaino).<br />
-This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/ebufaino/Minikube-Install/blob/master/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
